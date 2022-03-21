@@ -1,0 +1,3 @@
+[store]
+brands=['adidas']
+GOOGLE_APPLICATION_CREDENTIALS="./credentials/credentials.json"
